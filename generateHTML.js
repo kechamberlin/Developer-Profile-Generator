@@ -1,3 +1,5 @@
+const index = require("./index.js");
+
 const colors = {
   green: {
     wrapperBackground: "#E6E1C3",
